@@ -6,6 +6,11 @@ This is data on Official land prices and Real estate transaction prices provided
 The official land price is the value of land per square meter at a point determined by the Ministry of Land.
 Real estate transaction prices are the contract prices of houses and land actually bought and sold.
 
+国土交通省が提供する公示地価と宅地建物取引価格のデータです。
+
+公示地価とは、国土交通省が定める地点における1平方メートルあたりの土地の価格です。
+
+不動産取引価格とは、実際に売買された住宅や土地の成約価格です。
 
 ### Field Descriptions
 
